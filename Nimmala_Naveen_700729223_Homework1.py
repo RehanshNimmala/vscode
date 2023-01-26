@@ -23,6 +23,8 @@ dict={
 print(dict)
 dict['colour'] = "White"
 print(dict)
+dict['mode']="Auto";
+print(dict)
 
 #multiline comment
 '''
